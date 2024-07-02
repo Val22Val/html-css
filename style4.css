@@ -1,0 +1,24 @@
+/* .div{
+    width: 200px;
+    height: auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.block{
+    display: flex;
+    margin-top: 10px;
+}
+
+.delete{
+    margin-top: 10px;
+    margin-left: 180px;
+} */
+
+.block{
+    background-color: rgb(1, 185, 185); 
+    width: 85px; 
+    height: 130px; 
+    padding-left: 10px;
+    display: none;
+}
